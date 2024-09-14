@@ -27,7 +27,10 @@ Below are badges for build status, license, and other relevant metrics:
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
-4. [License](#license)
+4. [Purpose](#purpose)
+5. [Functionalities](#functionalities)
+6. [Key Features](#keyfeatures)
+7. [License](#license)
 
 ## Installation
 1. Clone the repository:  
@@ -45,6 +48,18 @@ Below are badges for build status, license, and other relevant metrics:
 
 ## Contributing
 Contributions welcomed! Please open an issue or submit a pull request.
+
+## Purpose
+
+**Kudos** is designed to meet the growing need for fostering employee engagement and recognition within organizations. In a competitive business environment, motivating employees and building a positive workplace culture is critical to boosting productivity, retention, and job satisfaction. This app provides a fun, gamified way to recognize employees' contributions and achievements, helping businesses build stronger teams and more engaged workforces.
+
+### Target Users:
+- **HR Managers and Team Leaders**: To track and reward employee performance and foster a culture of appreciation.
+- **Employees**: To send and receive recognition for their work, boosting morale and motivation.
+- **Executives**: To monitor team engagement and create data-driven strategies to enhance workplace culture.
+
+## Functionalities
+## Key Features
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
