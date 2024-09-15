@@ -1,4 +1,4 @@
-![Kudos Logo]([https://i.ibb.co/558WJ41/Kudos-Logo.png](https://i.ibb.co/2dnBYDZ/Kudos-Logo.png))
+![Kudos Logo](https://i.ibb.co/2dnBYDZ/Kudos-Logo.png)
 # Kudos: Gamified Employee Recognition App
 ![Power Apps](https://img.shields.io/badge/Microsoft-Power_Apps-742774?logo=Power%20Apps&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
