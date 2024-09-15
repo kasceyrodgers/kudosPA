@@ -1,5 +1,5 @@
 # Kudos: Gamified Employee Recognition App
-
+https://i.ibb.co/558WJ41/Kudos-Logo.png
 ![Power Apps](https://img.shields.io/badge/Microsoft-Power_Apps-742774?logo=Power%20Apps&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
